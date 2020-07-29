@@ -15,7 +15,7 @@ public class MyFirstJavaProgram {
 	rob.setPenWidth(10);
 	rob.penDown();
 	for (int i = 0; i < 100; i++) {
-		rob.move(1)
+		rob.move(1);
 		rob.turn(1);
 	}
 	rob.penUp();
